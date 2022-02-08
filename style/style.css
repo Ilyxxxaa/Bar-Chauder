@@ -292,7 +292,6 @@ a {
         top: -220px;
         margin: 0 auto;
         text-align: center;
-        background-color: #373737;
         width: 100%;
         transform: translateY(-200%);
         transition: all .7s;
